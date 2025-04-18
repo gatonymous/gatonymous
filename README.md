@@ -3,10 +3,10 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/whyl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gatonymous) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gatonymous) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/pinguinos.enojados/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gatonymous_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gatonymous) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=whyl&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gatonymous_&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gatonymous&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gatonymous&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gatonymous&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
